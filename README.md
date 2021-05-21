@@ -17,7 +17,7 @@ allprojects {
 **gradle: app**
 ```
 dependencies {
-	implementation 'com.github.kangmin1012:MingSingleClick:1.0.1'
+	implementation 'com.github.kangmin1012:MingSingleClickListener:1.0.1'
 }
 ```
 
