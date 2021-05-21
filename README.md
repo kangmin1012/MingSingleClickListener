@@ -17,7 +17,7 @@ allprojects {
 **gradle: app**
 ```
 dependencies {
-	implementation 'com.github.kangmin1012:MingSingleClick:1.0.0'
+	implementation 'com.github.kangmin1012:MingSingleClick:1.0.1'
 }
 ```
 
@@ -25,14 +25,14 @@ dependencies {
 
 ### Default (interval : 500 ms)
 ```kotlin
-View.setOnSingleClickListener {
+View.mingSingleClickListener {
     //do Something
 }
 ```
 
 ### Set up and use interval
 ```kotlin
-View.setOnSingleClickListener(1000) {
+View.mingSingleClickListener(1000) {
     //do Something
 }
 ```
