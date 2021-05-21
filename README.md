@@ -23,7 +23,7 @@ dependencies {
 
 ## Usage
 
-### Default (interval = 500 ms)
+### Default (interval : 500 ms)
 ```kotlin
 View.setOnSingleClickListener {
     //do Something
