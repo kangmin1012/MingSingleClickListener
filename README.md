@@ -1,4 +1,4 @@
-# MingSingleClick
+# MingSingleClickListener
 [![](https://jitpack.io/v/kangmin1012/MingSingleClick.svg)](https://jitpack.io/#kangmin1012/MingSingleClick) <img src="https://img.shields.io/badge/language-kotlin-blue"> <img src = "https://img.shields.io/badge/version-1.0.0-red">
 - Do not duplicate click the view
 - MingSingleClick prevents duplicate clicks depending on how long the user presses consecutively.
