@@ -21,7 +21,7 @@ dependencies {
 }
 ```
 
-## Usage
+## Usage ( for Kotlin )
 
 ### Default (interval : 500 ms)
 ```kotlin
