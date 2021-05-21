@@ -1,0 +1,3 @@
+include ':singleclick'
+include ':app'
+rootProject.name = "SingleClick"
